@@ -70,12 +70,12 @@ grep -i "ntds" application.xml
 *Question:*
 When was the database dump created on the disk?
 *Answer:* 
-<TimeCreated SystemTime="2024-05-15 05:39:58.549019"></TimeCreated>
+TimeCreated SystemTime="2024-05-15 05:39:58.549019"
 *Command run:*
 ```bash
 awk 'BEGIN{RS="</Event>"} /Temp/ {print $0"</Event>"}' application.xml
 ```
-![Q3 Screenshot](images/Screenshot_2025-09-20_15-36-31.png
+![Q3 Screenshot](images/Screenshot_2025-09-20_15-41-50.png)
 
 
 ## Q4 — database provider
@@ -110,7 +110,7 @@ sed -n '1,200p' evx4799.xml
 *Question:*
 Now you are tasked to find the Login Time for the malicious Session. Using the Logon ID, find the Time when the user logon session started.
 *Answer:*
-<TimeCreated SystemTime="2024-05-15 05:36:31.402386"></TimeCreated>
+TimeCreated SystemTime="2024-05-15 05:36:31.402386"
 *Command run:*
 ```bash
 grep -i "EventID" security.xml | head -20  
@@ -118,4 +118,3 @@ awk 'BEGIN{RS="</Event>"} /<EventID[^>]*>(4698)/ {print $0"</Event>"}' security.
 cat evx4698.xml
 ```
 ![Q6 Screenshot](images/ Screenshot_2025-09-21_18-26-28.png)
-
