@@ -1,0 +1,375 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.743587"></TimeCreated>
+<EventRecordID>5883</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="176"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x00000000000000ac</Data>
+<Data Name="NewProcessName">Registry</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000004</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName"></Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.747084"></TimeCreated>
+<EventRecordID>5886</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="176"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x000000000000018c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000004</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName"></Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:14.132074"></TimeCreated>
+<EventRecordID>5887</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="356"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x00000000000001c0</Data>
+<Data Name="NewProcessName">C:\Windows\System32\autochk.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000018c</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:15.696293"></TimeCreated>
+<EventRecordID>5888</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="196"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x000000000000020c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000018c</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:15.812134"></TimeCreated>
+<EventRecordID>5889</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x0000000000000214</Data>
+<Data Name="NewProcessName">C:\Windows\System32\csrss.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000020c</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:15.986937"></TimeCreated>
+<EventRecordID>5890</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="184"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x0000000000000254</Data>
+<Data Name="NewProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000018c</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:15.993422"></TimeCreated>
+<EventRecordID>5891</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="184"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x000000000000025c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\csrss.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000254</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:15.996881"></TimeCreated>
+<EventRecordID>5892</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="184"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x0000000000000270</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wininit.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000020c</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:16.096743"></TimeCreated>
+<EventRecordID>5893</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="184"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x00000000000002a0</Data>
+<Data Name="NewProcessName">C:\Windows\System32\winlogon.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000254</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\smss.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:16.172422"></TimeCreated>
+<EventRecordID>5894</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="196"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x00000000000002e8</Data>
+<Data Name="NewProcessName">C:\Windows\System32\services.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000270</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wininit.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:16.234400"></TimeCreated>
+<EventRecordID>5895</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="196"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="NewProcessId">0x00000000000002fc</Data>
+<Data Name="NewProcessName">C:\Windows\System32\lsass.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000270</Data>
+<Data Name="CommandLine"></Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wininit.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-16384</Data>
+</EventData>
+</Event>

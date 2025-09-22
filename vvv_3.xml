@@ -1,0 +1,89 @@
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">32</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>58</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:07.512243"></TimeCreated>
+<EventRecordID>2942</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="BitlockerUserInputTime">0</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="vmci"></Provider>
+<EventID Qualifiers="16392">3</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:09.363125"></TimeCreated>
+<EventRecordID>2945</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;VMCI: Using capabilities (0x1c).
+&lt;/string&gt;
+&lt;string&gt;&lt;/string&gt;
+</Data>
+<Binary>AAAAAAIAKAAAAAAAAwAIQAMACEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</Binary>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="e1i68x64"></Provider>
+<EventID Qualifiers="24580">32</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:14.115337"></TimeCreated>
+<EventRecordID>2961</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="176"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Intel(R) 82574L Gigabit Network Connection&lt;/string&gt;
+&lt;string&gt;&lt;/string&gt;
+</Data>
+<Binary>AAAEAAIAMAAAAAAAIAAEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABGA=</Binary>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Virtual Disk Service"></Provider>
+<EventID Qualifiers="16896">3</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:28.277542"></TimeCreated>
+<EventRecordID>3030</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;@2010005&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>

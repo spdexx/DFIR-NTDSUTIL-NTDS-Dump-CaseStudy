@@ -1,0 +1,150 @@
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5142</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12808</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:27.881475"></TimeCreated>
+<EventRecordID>5898</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="380"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DC01$</Data>
+<Data Name="SubjectDomainName">FORELA</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="ShareName">\\*\IPC$</Data>
+<Data Name="ShareLocalPath"></Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5142</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12808</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:27.881544"></TimeCreated>
+<EventRecordID>5899</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="380"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DC01$</Data>
+<Data Name="SubjectDomainName">FORELA</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="ShareName">\\*\ADMIN$</Data>
+<Data Name="ShareLocalPath">C:\Windows</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5142</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12808</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:27.881655"></TimeCreated>
+<EventRecordID>5900</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="380"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DC01$</Data>
+<Data Name="SubjectDomainName">FORELA</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="ShareName">\\*\C$</Data>
+<Data Name="ShareLocalPath">C:\</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5142</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12808</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:27.882484"></TimeCreated>
+<EventRecordID>5901</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="380"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DC01$</Data>
+<Data Name="SubjectDomainName">FORELA</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="ShareName">\\*\SYSVOL</Data>
+<Data Name="ShareLocalPath">C:\Windows\SYSVOL\sysvol</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5142</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12808</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:27.883947"></TimeCreated>
+<EventRecordID>5902</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="380"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DC01$</Data>
+<Data Name="SubjectDomainName">FORELA</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="ShareName">\\*\NETLOGON</Data>
+<Data Name="ShareLocalPath">C:\Windows\SYSVOL\sysvol\forela.local\SCRIPTS</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5142</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12808</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:27.885164"></TimeCreated>
+<EventRecordID>5903</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="380"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DC01$</Data>
+<Data Name="SubjectDomainName">FORELA</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="ShareName">\\*\DC-Confidential</Data>
+<Data Name="ShareLocalPath">C:\Shares\DC-Confidential</Data>
+</EventData>
+</Event>

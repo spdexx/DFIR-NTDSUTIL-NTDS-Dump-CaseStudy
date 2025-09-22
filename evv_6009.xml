@@ -1,0 +1,27 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="EventLog"></Provider>
+<EventID Qualifiers="32768">6009</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.103449"></TimeCreated>
+<EventRecordID>2915</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;10.00.&lt;/string&gt;
+&lt;string&gt;20348&lt;/string&gt;
+&lt;string&gt;&lt;/string&gt;
+&lt;string&gt;Multiprocessor Free&lt;/string&gt;
+&lt;string&gt;0&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>

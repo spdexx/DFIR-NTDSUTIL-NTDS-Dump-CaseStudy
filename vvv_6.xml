@@ -1,0 +1,349 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="EventLog"></Provider>
+<EventID Qualifiers="32768">6009</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.103449"></TimeCreated>
+<EventRecordID>2915</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;10.00.&lt;/string&gt;
+&lt;string&gt;20348&lt;/string&gt;
+&lt;string&gt;&lt;/string&gt;
+&lt;string&gt;Multiprocessor Free&lt;/string&gt;
+&lt;string&gt;0&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="EventLog"></Provider>
+<EventID Qualifiers="32768">6005</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.103449"></TimeCreated>
+<EventRecordID>2916</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data></Data>
+<Binary>6AcFAAMADwAFACMAEgBnAAAAAAAAAAAA</Binary>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="EventLog"></Provider>
+<EventID Qualifiers="32768">6013</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.103449"></TimeCreated>
+<EventRecordID>2917</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;11&lt;/string&gt;
+&lt;string&gt;&lt;/string&gt;
+&lt;string&gt;11&lt;/string&gt;
+&lt;string&gt;60&lt;/string&gt;
+&lt;string&gt;-300 Pakistan Standard Time&lt;/string&gt;
+</Data>
+<Binary>MQAuADEAAAAwAAAAVwBpAG4AZABvAHcAcwAgAFMAZQByAHYAZQByACAAMgAwADIAMgAgAFMAdABhAG4AZABhAHIAZAAgAEUAdgBhAGwAdQBhAHQAaQBvAG4AAAAxADAALgAwAC4AMgAwADMANAA4ACAAQgB1AGkAbABkACAAMgAwADMANAA4ACAAIAAAAE0AdQBsAHQAaQBwAHIAbwBjAGUAcwBzAG8AcgAgAEYAcgBlAGUAAAAyADAAMwA0ADgALgBmAGUAXwByAGUAbABlAGEAcwBlAC4AMgAxADAANQAwADcALQAxADUAMAAwAAAANgA0ADAANwA5ADQANgAxAAAATgBvAHQAIABBAHYAYQBpAGwAYQBiAGwAZQAAAE4AbwB0ACAAQQB2AGEAaQBsAGEAYgBsAGUAAAA5AAAAOAAAADYANgA1ADYAAAA0ADAAOQAAAEQAQwAwADEALgBmAG8AcgBlAGwAYQAuAGwAbwBjAGEAbAAAAAAA</Binary>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.317923"></TimeCreated>
+<EventRecordID>2946</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">3</Data>
+<Data Name="DeviceName">Wof</Data>
+<Data Name="DeviceTime">2008-09-17 23:19:58</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.318407"></TimeCreated>
+<EventRecordID>2947</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">6</Data>
+<Data Name="DeviceName">DfsrRo</Data>
+<Data Name="DeviceTime">1999-03-21 06:16:31</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.512331"></TimeCreated>
+<EventRecordID>2949</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">9</Data>
+<Data Name="DeviceName">FileCrypt</Data>
+<Data Name="DeviceTime">2088-05-24 11:57:52</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.516108"></TimeCreated>
+<EventRecordID>2950</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">9</Data>
+<Data Name="DeviceName">DfsDriver</Data>
+<Data Name="DeviceTime">2053-07-29 14:36:42</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.697266"></TimeCreated>
+<EventRecordID>2951</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">9</Data>
+<Data Name="DeviceName">npsvctrig</Data>
+<Data Name="DeviceTime">2015-04-02 15:42:38</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.089233"></TimeCreated>
+<EventRecordID>2993</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">5</Data>
+<Data Name="DeviceName">wcifs</Data>
+<Data Name="DeviceTime">2088-12-15 16:51:43</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.110594"></TimeCreated>
+<EventRecordID>2995</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="352"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">5</Data>
+<Data Name="DeviceName">luafv</Data>
+<Data Name="DeviceTime">2068-10-12 03:22:37</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.123438"></TimeCreated>
+<EventRecordID>2997</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="352"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">6</Data>
+<Data Name="DeviceName">CldFlt</Data>
+<Data Name="DeviceTime">2074-11-09 20:03:12</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.123472"></TimeCreated>
+<EventRecordID>2999</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="352"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">6</Data>
+<Data Name="DeviceName">CldFlt</Data>
+<Data Name="DeviceTime">2074-11-09 20:03:12</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.127739"></TimeCreated>
+<EventRecordID>3000</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="352"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">10</Data>
+<Data Name="DeviceName">storqosflt</Data>
+<Data Name="DeviceTime">2051-09-21 17:40:20</Data>
+</EventData>
+</Event>
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-FilterManager" Guid="{f3c5e28e-63f6-49c7-a204-e48a1bc4b09d}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:18.132219"></TimeCreated>
+<EventRecordID>3001</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="352"></Execution>
+<Channel>System</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="FinalStatus">0x00000000</Data>
+<Data Name="DeviceVersionMajor">10</Data>
+<Data Name="DeviceVersionMinor">0</Data>
+<Data Name="DeviceNameLength">7</Data>
+<Data Name="DeviceName">bindflt</Data>
+<Data Name="DeviceTime">2051-03-04 08:45:47</Data>
+</EventData>
+</Event>

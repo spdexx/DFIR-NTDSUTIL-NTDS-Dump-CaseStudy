@@ -1,0 +1,31 @@
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4696</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.743767"></TimeCreated>
+<EventRecordID>5884</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="176"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x00000000000003e7</Data>
+<Data Name="TargetProcessId">0x00000000000000ac</Data>
+<Data Name="TargetProcessName">Registry</Data>
+<Data Name="ProcessId">0x0000000000000004</Data>
+<Data Name="ProcessName"></Data>
+</EventData>
+</Event>

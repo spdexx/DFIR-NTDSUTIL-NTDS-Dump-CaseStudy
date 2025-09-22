@@ -1,0 +1,35 @@
+
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4826</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13573</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-05-15 05:35:11.743771"></TimeCreated>
+<EventRecordID>5885</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="176"></Execution>
+<Channel>Security</Channel>
+<Computer>DC01.forela.local</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="LoadOptions">-</Data>
+<Data Name="AdvancedOptions">%%1843</Data>
+<Data Name="ConfigAccessPolicy">%%1846</Data>
+<Data Name="RemoteEventLogging">%%1843</Data>
+<Data Name="KernelDebug">%%1843</Data>
+<Data Name="VsmLaunchType">%%1848</Data>
+<Data Name="TestSigning">%%1843</Data>
+<Data Name="FlightSigning">%%1843</Data>
+<Data Name="DisableIntegrityChecks">%%1843</Data>
+<Data Name="HypervisorLoadOptions">-</Data>
+<Data Name="HypervisorLaunchType">%%1848</Data>
+<Data Name="HypervisorDebug">%%1843</Data>
+</EventData>
+</Event>
